@@ -1,0 +1,12 @@
+To Do:
+Barun and Taslima
+Description for the output WikiData-Taslima
+later: Get a interface which will merge both sources
+Saud-JUnit Testing doing
+later: Unit testing,system testing
+Paaras-UI backend is not working, will add entity component, check the service
+later: integrate type ahead service
+Aman:
+train model, done research, train data should be bigger
+later:overall improvement check
+
